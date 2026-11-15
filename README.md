@@ -48,8 +48,8 @@ I work on making multimodal and language models cheaper to train and run: which 
 
 | Paper | Venue | Note |
 | --- | --- | --- |
-| **[UltraHiT](https://arxiv.org/abs/2509.13832)** | ICRA 2026 | A hierarchical Transformer for generalizable internal-carotid robotic ultrasonography. [Project](https://yxwang1215.github.io/UltraHiT/) · [Code](https://github.com/LeapLabTHU/UltraHiT) |
-| **[VA-Adapter](https://arxiv.org/abs/2510.06809)** | MICCAI 2026 | A vision-action adapter for echocardiography probe guidance. [Code](https://github.com/LeapLabTHU/VA-Adapter) |
+| **[UltraHiT: A Hierarchical Transformer Architecture for Generalizable Internal Carotid Artery Robotic Ultrasonography](https://arxiv.org/abs/2509.13832)** | ICRA 2026 | A hierarchical Transformer for generalizable internal-carotid robotic ultrasonography. [Project](https://yxwang1215.github.io/UltraHiT/) · [Code](https://github.com/LeapLabTHU/UltraHiT) |
+| **[VA-Adapter: Adapting Ultrasound Foundation Model to Echocardiography Probe Guidance](https://arxiv.org/abs/2510.06809)** | MICCAI 2026 | A vision-action adapter for echocardiography probe guidance. [Code](https://github.com/LeapLabTHU/VA-Adapter) |
 
 ## More
 
