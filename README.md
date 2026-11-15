@@ -23,7 +23,7 @@ I work on making multimodal and language models cheaper to train and run: which 
 
 ### Efficient multimodal models
 
-| Paper | Venue | |
+| Paper | Venue | Note |
 | --- | --- | --- |
 | **[AudioKV: KV Cache Eviction in Efficient Large Audio Language Models](https://arxiv.org/abs/2604.06694)** | ACM MM 2026 | Semantic-acoustic alignment and spectral score smoothing keep audio-critical cache entries. [Code](https://github.com/yxwang1215/Audio_kvcache) · [Poster](https://yxwang1215.top/posters/audiokv/) |
 | **[Glance, then Select: Evidence-Tempered Visual Token Selection for Extremely Compressed Multimodal LLMs](https://yxwang1215.top/papers/glance-etd/)** | 2026 | A glance pass cuts encoder cost, then evidence-tempered diversity keeps answer tokens at a 5% budget. [Code](https://github.com/yxwang1215/Glance-ETD) |
@@ -31,14 +31,14 @@ I work on making multimodal and language models cheaper to train and run: which 
 
 ### LLM training
 
-| Paper | Venue | |
+| Paper | Venue | Note |
 | --- | --- | --- |
 | **[Beyond Distribution Matching: Selective Margin Preservation for Supervised Fine-Tuning](https://arxiv.org/abs/2610.19685)** | arXiv 2026 | SRP-SFT keeps selected non-target logit margins, improving math reasoning and code generation. [Code](https://github.com/yxwang1215/SRP-SFT) · [Project](https://yxwang1215.top/papers/srp-sft/) |
 | **[Efficient On-Policy Distillation for Language Models](https://www.preprints.org/manuscript/202610.2702)** | 2026 | A survey of on-policy distillation across data, rollout, supervision, systems, and deployment. |
 
 ### Diffusion language models
 
-| Paper | Venue | |
+| Paper | Venue | Note |
 | --- | --- | --- |
 | **[Accelerating Diffusion Large Language Models with SlowFast](https://arxiv.org/abs/2506.10848)** | ICLR 2026 | Slow and fast sampling guided by token certainty, convergence, and position. [Code](https://github.com/LiangrunFlora/Slow-Fast-Sampling) |
 | **[Thinking inside the Mask: In-place Prompting in Diffusion LLMs](https://arxiv.org/abs/2508.10736)** | arXiv 2025 | Reasoning embedded in masked positions, with confidence-aware early exit. [Code](https://github.com/Lueci4er/ICE) |
@@ -46,7 +46,7 @@ I work on making multimodal and language models cheaper to train and run: which 
 
 ### Robotics and medical imaging
 
-| Paper | Venue | |
+| Paper | Venue | Note |
 | --- | --- | --- |
 | **[UltraHiT](https://arxiv.org/abs/2509.13832)** | ICRA 2026 | A hierarchical Transformer for generalizable internal-carotid robotic ultrasonography. [Project](https://yxwang1215.github.io/UltraHiT/) · [Code](https://github.com/LeapLabTHU/UltraHiT) |
 | **[VA-Adapter](https://arxiv.org/abs/2510.06809)** | MICCAI 2026 | A vision-action adapter for echocardiography probe guidance. [Code](https://github.com/LeapLabTHU/VA-Adapter) |
